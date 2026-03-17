@@ -1,0 +1,11 @@
+{
+  "name": "the-greed-factor-presentation",
+  "version": "1.0.0",
+  "description": "Presentation for 'The Greed Factor' by Assoc. Prof. Radoslav Kardzhiev",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -p 3000"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
